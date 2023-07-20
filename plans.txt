@@ -1,0 +1,68 @@
+What is data collection?
+
+Data collection is the process of collecting and analyzing information on relevant variables in a predetermined, methodical way so that one can respond to specific research questions, test hypotheses, and assess results.
+
+what is data preparation?
+
+Data preparation is the process of preparing raw data so that it is suitable for further processing and analysis. Key steps include collecting, cleaning, and labeling raw data into a form suitable for machine learning (ML) algorithms and then exploring and visualizing the data.
+
+what is model building?
+
+Importing Libraries.
+Importing The dataset.
+Text Preprocessing.
+Converting Text to Numbers.
+Training and Test Sets.
+Training Text Classification Model and Predicting Sentiment.
+Evaluating The Model.
+Saving and Loading the Model.
+
+What is NLP and Dialogmanagement?
+
+A dialog manager (DM) is a component of a dialog system (DS), responsible for the state and flow of the conversation. Usually: The input to the DM is the human utterance, usually converted to some system-specific semantic representation by the Natural language understanding (NLU) component
+
+
+chat bot?
+
+A chatbot is a computer program or software that simulates human conversation12345. It can use text or voice interaction14 and understand human capabilities or intent24. It can provide real-time answers, customer service, or solve customer queries123. The first chatbot was written by Joseph Weizenbaum in 1964-19665.
+Summarized from 5 sources and the web
+
+what is testing and evaluation?
+
+Onboarding. ...
+Conversational flow/story. ...
+Navigation. ...
+Response time and rate. ...
+Error management.
+
+what is deployment?
+
+When creating a chatbot, you design the logic of a chatbot. To then bring it to life so your users can interact with it, you must deploy it on one of the media, which include Web pages, Facebook Messenger, WhatsApp and Twilio phone numbers.
+
+what is documentation?
+
+Channels. Which channels do you want your chatbot to be on? ...
+Languages. Which languages do you want your chatbot to “speak”? ...
+Integrations. ...
+Chatbot's look and tone of voice. ...
+KPIs and metrics. ...
+Analytics and Dashboards. ...
+Technologies. ...
+NLP and AI.uj
+------------------------------------------------
+
+Model Building
+-------------------------------------------------
+
+Text - Prepossessing
+
+Noise removal. Noise removal is about removing digits, characters, and pieces …
+Tokenization. Tokenization is defined as a process to split the text into smaller …
+Lowercasing. This is the simplest technique of text preprocessing which …
+Normalization. Normalization is the process of converting the token into its …
+
+Creating YAML files
+Training dataset 
+RASA  Installation & Setup
+Training the RASA model
+
